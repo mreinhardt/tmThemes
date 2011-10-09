@@ -11,13 +11,13 @@
 * Colors tweaked to personal preference
 
 **HTML**
-![HTML screenshot](img/CMII-html.png)
+![HTML screenshot](https://github.com/mreinhardt/tmThemes/raw/master/img/CMII-html.png)
 
 **CSS**
-![CSS screenshot](img/CMII-css.png)
+![CSS screenshot](https://github.com/mreinhardt/tmThemes/raw/master/img/CMII-css.png)
 
 **JS**
-![JS screenshot](img/CMII-js.png)
+![JS screenshot](https://github.com/mreinhardt/tmThemes/raw/master/img/CMII-js.png)
 
 **PHP**
-![PHP screenshot](img/CMII-php.png)
+![PHP screenshot](https://github.com/mreinhardt/tmThemes/raw/master/img/CMII-php.png)
