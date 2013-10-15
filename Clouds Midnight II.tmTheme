@@ -443,6 +443,46 @@
 				<string>#BAA96D</string>
 			</dict>
 		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>SublimeGit Diff +</string>
+			<key>scope</key>
+			<string>markup.inserted.diff, meta.diff.header.to-file</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#168F3A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SublimeGit Diff -</string>
+			<key>scope</key>
+			<string>markup.deleted.diff, meta.diff.header.from-file</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#B92C27</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SublimeGit Diff Meta</string>
+			<key>scope</key>
+			<string>meta.diff</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#C9A86D</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>E5304455-0AC7-4082-8E62-5FD1B3313EEC</string>
